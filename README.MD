@@ -8,7 +8,7 @@ Extracting data from telegram using python.
 
 - Also, create a ```telegram_output.txt``` file where the extracted data will be stored. 
 
-**Ensure you don't leak both files to the public**
+>Ensure you don't leak both files to the public
 
 ```
 python -m pip > requirements.txt
