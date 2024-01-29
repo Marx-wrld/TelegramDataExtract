@@ -18,4 +18,8 @@ python -m pip > requirements.txt
 pip install virtualenv
 
 pip install virtualenvwrapper-win
+
+pip install telethon
+
+pip install pandas
 ```
