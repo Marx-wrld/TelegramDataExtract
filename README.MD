@@ -1,6 +1,6 @@
 ## TelegramDataExtract
 
-Extracting data from telegram using like python.
+Extracting data from telegram using python.
 
 #### Installations
 
