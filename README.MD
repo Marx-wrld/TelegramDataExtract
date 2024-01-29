@@ -27,7 +27,7 @@ PHONE_NUMBER=
 
 **DISCLAIMER** 
 
->Ensure you don't leak either files to the public
+>Ensure you don't leak either files to the public, add them to .gitignore
 
 #### Installations
 
