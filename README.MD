@@ -16,7 +16,7 @@ PHONE_NUMBER=
 
 **DISCLAIMER** 
 
->Ensure you don't leak both files to the public
+>Ensure you don't leak either files to the public
 
 #### Installations
 ```
