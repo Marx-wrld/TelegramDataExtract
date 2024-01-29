@@ -3,6 +3,7 @@
 Extracting data from telegram using python.
 
 #### Clone or Download the repo
+
 - Create a ```.env``` file, where you'll paste your api_id, api_hash and phone number then add the following:- 
 ```
 API_ID=
@@ -19,6 +20,7 @@ PHONE_NUMBER=
 >Ensure you don't leak either files to the public
 
 #### Installations
+
 ```
 python -m pip > requirements.txt
 
