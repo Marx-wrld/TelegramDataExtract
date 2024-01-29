@@ -23,4 +23,6 @@ pip install virtualenvwrapper-win
 pip install telethon
 
 pip install pandas
+
+pip install dotenv
 ```
