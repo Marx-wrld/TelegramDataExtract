@@ -2,6 +2,12 @@
 
 Extracting data from telegram using python.
 
+#### Getting your telegram api-id and hash
+
+- Visit the official telegram website - http://my.telegram.org/
+
+- Log in with your phone-number and confirmation code from telegram, to manage your apps using Telegram API or delete your account.
+
 #### Clone or Download the repo
 
 - Create a ```.env``` file, where you'll paste your api_id, api_hash and phone number then add the following:- 
