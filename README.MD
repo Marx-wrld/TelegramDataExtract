@@ -30,5 +30,6 @@ pip install telethon
 
 pip install pandas
 
-pip install dotenv
+pip install python-dotenv
+
 ```
