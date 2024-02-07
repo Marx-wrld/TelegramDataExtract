@@ -44,7 +44,7 @@ for dialog in dialogs:
                 output_file.write(f"Post: {message.text}\n")
                 
                 # Retrieving up to 1000 replies/comments for each message
-                comments = client.get_messages(dialog.entity, ids=[message.id], limit=2000)
+                comments = client.get_messages(dialog.entity, ids=[message.id], limit=5000)
                 
                 # Processing each comment
                 for comment in comments:
@@ -53,4 +53,3 @@ for dialog in dialogs:
 
 # Disconnecting from Telegram
 client.disconnect()
-
