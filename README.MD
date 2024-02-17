@@ -1,6 +1,6 @@
 ## TelegramDataExtract
 
-Extracting data from telegram using python.
+Extracting data from telegram with telethon.
 
 #### Getting your telegram api-id and hash
 
